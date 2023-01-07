@@ -1,0 +1,12 @@
+.overflw-x{
+    /* overflow-x: scroll; */
+}
+
+.card-custom-x{
+    width:200px;
+    display: inline-block;
+}
+.card-custom-x-1{
+    width:40%;
+    display: inline-block;
+}

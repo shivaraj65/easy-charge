@@ -1,0 +1,29 @@
+.fullscreen-login{
+    min-height: 100vh;
+    /* display: -ms-flexbox; */
+    /* display: flex; */
+    padding-top: 40px;
+    padding-bottom: 39px;
+    background-image: url("../../assets/images/ev-6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.form-login-1 {
+    /* width: 100%; */
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    max-width: 400px;
+    padding: 25px 15px;
+    margin-left: 8vw;
+    background-color: #1c3e48b5;    
+}
+
+.coinbase-button{
+  width: 100%;
+  background: #2364d2;  
+  color: #fff;
+}

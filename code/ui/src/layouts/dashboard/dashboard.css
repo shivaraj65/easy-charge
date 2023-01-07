@@ -1,0 +1,39 @@
+.btn-full-width{
+    width:100%;
+}
+.my-modal-01{
+    background-color: #04060892;    
+}
+.image-icon{
+    height:1.5rem;
+    border-radius: 5px;
+    margin-left:10px;
+}
+.floater-search{    
+    right:20px;
+    margin-top:10px;
+    position: absolute;
+    z-index: 1300;
+
+}
+.input-floater{
+    display:inline-block;
+    border:none;
+}
+#map{
+    background-color:#000;
+    height:300px;
+    width:50%;
+}
+.map-card{
+    min-height: 500px;
+}
+.bg-grey{
+    background-color: #f4f4f4;
+}
+
+.icon-size{
+    max-width:30%;
+    margin: auto;
+    margin-bottom: 10px;    
+}

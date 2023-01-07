@@ -1,0 +1,35 @@
+.fullscreen-signup{
+    min-height: 100vh;
+    display: -ms-flexbox;
+    display: flex;
+    /* -ms-flex-align: center; */
+    /* align-items: center; */
+    padding-top: 40px;
+    padding-bottom: 39px;
+    background-image: url("../../assets/images/ev-4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.closeButton{
+    position: absolute;
+    right:10px;
+    top: 10px;
+    z-index: 1;
+}
+
+.form-signin-1 {
+    width: 100%;
+    max-width: 350px;
+    padding: 14px;
+    margin: auto;
+    background-color: #337285a1;
+    text-align: left;
+}
+
+.signup-button{
+    width: 100%;
+    padding: 8px 0;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,20 @@
+.bg-auth{
+    min-height: 100vh;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 39px;
+    background-image: url("../../assets/images/ev-7.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.form-auth-1 {
+    width: 100%;
+    max-width: 450px;
+    padding: 25px 15px;
+    margin: auto;
+    background-color: #3c4548a1;
+    text-align: left;
+}

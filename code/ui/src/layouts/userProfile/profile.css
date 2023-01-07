@@ -1,0 +1,17 @@
+.hover-menu:hover{
+    cursor: pointer;
+    background-color: #ddeffe;
+    color:#0d6efd;
+}
+.hover-menu-1:hover{
+    cursor: pointer;
+    background-color: #fedddd;
+}
+.hover-btn:hover{
+    cursor: pointer;
+}
+
+/* wallet  */
+.wid-100{
+    width:100%;
+}
