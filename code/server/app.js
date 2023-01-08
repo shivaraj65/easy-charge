@@ -26,8 +26,8 @@ var corsOptions = {
 
 //-----------------configuration for the nodemail----------------------
 
-const userMail='atomifystudios@gmail.com';
-const passwordMail='uyakrybleoueyfsb';
+const userMail='';
+const passwordMail='';
 
 //----setting up the host for sending the mail
 const mailTransporter = nodemailer.createTransport({
@@ -42,8 +42,8 @@ const mailTransporter = nodemailer.createTransport({
 //-----configuration for the coinbase node provider
 const provider = new ethers.providers.JsonRpcProvider({
                     url: "https://goerli.ethereum.coinbasecloud.net",
-                    user: "SE5K55ZYPKAOXUWHB7HB",
-                    password: "KZS3DQQLOLPKILSYJTR3VENZQVNUYHJ73QIWILZF"
+                    user: "",
+                    password: ""
                 });
 const masteraddress="0xC41F62d869cb3F4cF4d81F9Ed89F202b21372F5f";
 const masterABI=[
@@ -642,7 +642,7 @@ const clientContract=[
                 ];
 
 //--------------configuration for the mongoose model for the database------------------
-mongoose.connect('mongodb+srv://warfreak:backspace90-=@cluster0-vsfo0.mongodb.net/easycharge');
+mongoose.connect('');
 // mongoose.set('useFindAndModify', false);
 
 //schema for the user
